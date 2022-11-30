@@ -6,7 +6,7 @@ Computational Physics (PHYS 25000, Fall 2021)
 This is a collection of assignments from a course in computational physics
 using Fortran90. A below is an outline of topics covered. 
 
-1. Random number generation and seqquence quality.
+1. Random number generation and sequence quality.
 
 2. John Conway's *Game of Life*. Cellular automata and emergent behavior.
 
